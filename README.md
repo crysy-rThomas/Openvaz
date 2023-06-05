@@ -17,11 +17,11 @@ Briefly describe your project and its purpose. Mention the technologies and fram
 
 ## Installation
 
-Création d’une image custom pour la base de données.
-sudo docker build -t bddimage .
-sudo docker load < bddimage.tar
-adresse wordpress openvaz https://10.0.2.15:8083 
-adresse openvas https://192.30.0.4:443
+- Création d’une image custom pour la base de données.
+- sudo docker build -t bddimage .
+- sudo docker load < bddimage.tar
+- adresse wordpress openvaz https://10.0.2.15:8083 
+- adresse openvas https://192.30.0.4:443
 
 ## Usage
 
