@@ -1,19 +1,14 @@
 # Project Name
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## Description
 
-Briefly describe your project and its purpose. Mention the technologies and frameworks used.
+Ce projet vise à automatiser le processus de scan de vulnérabilité et de déploiement d'un environnement WordPress à l'aide d'un Dockerfile. Plus précisément, le projet se concentre sur l'utilisation d'OpenVAS pour effectuer le scan des ports ouverts et des vulnérabilités de l'instance WordPress déployée.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
