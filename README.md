@@ -17,30 +17,19 @@ Briefly describe your project and its purpose. Mention the technologies and fram
 
 ## Installation
 
-Explain how to install and set up your project. Provide step-by-step instructions and any prerequisites.
+Création d’une image custom pour la base de données.
+sudo docker build -t bddimage .
+sudo docker load < bddimage.tar
+adresse wordpress openvaz https://10.0.2.15:8083 
+adresse openvas https://192.30.0.4:443
 
 ## Usage
 
-Describe how to use your project. Include examples or code snippets to demonstrate its functionality.
+Installation et configuration de Openvas avec lancement automatisé d'un scan périodique
 
-## Features
-
-List the key features and functionalities of your project. Highlight what makes it unique or useful.
 
 ## Contributing
 
-Indicate if you're open to contributions and how others can contribute to your project. Include guidelines for pull requests and code formatting.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-Provide your contact information (e.g., email or social media handles) so that users can reach out to you with questions or feedback.
+Contributions to Openvaz are welcome and encouraged! To contribute, simply fork this repository, make your changes, and submit a pull request.
 
 ---
-
-Feel free to customize this template based on your project's specific requirements. Include any additional sections or information that you think would be relevant. Make sure to keep the README file up-to-date as your project evolves.
-
-Happy coding!
