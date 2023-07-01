@@ -18,7 +18,7 @@ Ce projet vise à automatiser le processus de scan de vulnérabilité et de dép
 
 ## Usage
 
-Installation et configuration de Openvas avec lancement automatisé d'un scan périodique + envoie de rapport par mail
+Installation et configuration de Openvas avec lancement automatisé d'un scan périodique + envoi de rapport par mail
 
 
 ## Contributing
