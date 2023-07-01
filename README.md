@@ -12,9 +12,7 @@ Ce projet vise à automatiser le processus de scan de vulnérabilité et de dép
 
 ## Installation
 
-- Création d’une image custom pour la base de données.
-- sudo docker build -t bddimage .
-- sudo docker load < bddimage.tar
+- sudo docker compose up -d
 - adresse wordpress openvaz https://193.30.0.3:8083 
 - adresse openvas https://192.30.0.4:443
 
