@@ -13,8 +13,8 @@ Ce projet vise à automatiser le processus de scan de vulnérabilité et de dép
 ## Installation
 
 - sudo docker compose up -d
-- adresse wordpress openvaz https://193.30.0.3:8083 
-- adresse openvas https://192.30.0.4:443
+- adresse wordpress openvaz http://193.30.0.3:8083 
+- adresse openvas https://192.30.0.4:9392
 
 ## Usage
 
